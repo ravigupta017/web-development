@@ -1,0 +1,7 @@
+
+ /* find use along with function*/
+let fruit1 = ["mango", "banana", "lichi"];
+let findtes = fruit1.find(function ( item) {
+  return item === "mango";
+});
+console.log(findtes);
