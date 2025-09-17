@@ -76,11 +76,16 @@ let arrTwo = ["Ravi", "amit", "vishal"];
 // fruit.reverse(); /*reverse array */
 // console.log(fruit);
 
-let fruit1 = ["mango", "banana", "lichi"];
-let findtes = fruit1.find(function (/* find use along with function*/ item) {
-  return item === "mango";
-});
-console.log(findtes);
+// let fruit1 = ["mango", "banana", "lichi"];
+// let findtes = fruit1.find(function (/* find use along with function*/ item) {
+//   return item === "mango";
+// });
+// console.log(findtes);
 
-let flatMethod=[["one"],["two","three","four","five",['six']]];
-console.log(flatMethod.flat(2));
+// let flatMethod=[["one"],["two","three","four","five",['six']]];
+// console.log(flatMethod.flat(2));  
+
+// note:-sorting data in assending or dessending 
+// let arrSort = ["zee", "bottle", "america", "dubai" ];
+// arrSort.sort();
+// console.log(arrSort);
