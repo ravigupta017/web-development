@@ -5,4 +5,3 @@ console.log(`1st - 2nd =  ${number_1 - number_2}`);
 console.log(`1st * 2nd =  ${number_1 * number_2}`);
 console.log(`1st / 2nd =  ${number_1 / number_2}`);
 console.log(`1st % 2nd =  ${number_1 % number_2}`);
-

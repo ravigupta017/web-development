@@ -1,4 +1,3 @@
-// verify user credentials if username && password not empty print login successfull otherwish show both field are required
 
 let username=prompt("enter your user name");
 let password=prompt("enter password");
